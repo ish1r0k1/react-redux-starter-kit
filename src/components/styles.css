@@ -1,0 +1,7 @@
+@import "../styles/variables.css";
+
+.Home {
+  & .title {
+    color: var(--primary-color);
+  }
+}

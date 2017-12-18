@@ -1,0 +1,8 @@
+:root {
+  --white: #fff;
+  --black: #212121;
+
+  --primary-color: tomato;
+  --font-color: var(--black);
+  --link-color: var(--font-color);
+}
